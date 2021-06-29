@@ -1,1 +1,2 @@
-# The-Travelling-Salesman-Problem
+# The Travelling Salesman Problem
+En este trabajo se resolvio un problema de optmizacion combinatoria conocido como "The Travelling Sales Problem" o "El problema del Viajante" utilizando distintas heuristicas y metaheuristicas tales como La Heuristica Golosa basada en el Arbol Generador Minimo,Vecino mas Cercano,Por Insercion,TabuSerch basado en estructuras y en ultimas soluciones exploradas. Ademas se realizo un informe explicando las tecnicas utilizadas, sus algoritmos,complejidades y comportamientos.
